@@ -9,3 +9,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-07` — cross-link related repositories
 - `2024-10-09` — trailing whitespace
 - `2024-10-14` — badge refresh
+- `2024-10-14` — tighten decisions section
