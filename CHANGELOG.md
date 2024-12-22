@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-14` — badge refresh
 - `2024-10-14` — tighten decisions section
 - `2024-12-20` — markdown lint
+- `2024-12-22` — rephrase capabilities
