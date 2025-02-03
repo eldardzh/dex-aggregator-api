@@ -13,3 +13,4 @@ This log tracks architectural and documentation refinements.
 - `2024-12-20` — markdown lint
 - `2024-12-22` — rephrase capabilities
 - `2024-12-25` — gitignore
+- `2025-02-03` — rephrase capabilities
