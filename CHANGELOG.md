@@ -16,3 +16,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-03` — rephrase capabilities
 - `2025-02-04` — badge refresh
 - `2025-02-05` — rephrase capabilities
+- `2025-02-17` — markdown lint
