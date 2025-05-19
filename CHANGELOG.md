@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-17` — markdown lint
 - `2025-03-05` — rephrase TL;DR
 - `2025-05-19` — scope clarification
+- `2025-05-19` — contact block tidy
