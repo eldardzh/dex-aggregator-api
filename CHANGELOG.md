@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-19` — contact block tidy
 - `2025-05-20` — scope clarification
 - `2025-05-21` — contact block tidy
+- `2025-05-21` — contact block tidy
