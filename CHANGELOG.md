@@ -25,3 +25,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-21` — contact block tidy
 - `2025-05-22` — contact block tidy
 - `2025-05-22` — rephrase TL;DR
+- `2025-05-22` — clarify component responsibilities
