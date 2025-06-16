@@ -30,3 +30,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-24` — improve mermaid diagram
 - `2025-05-25` — tighten architecture overview
 - `2025-06-16` — improve mermaid diagram
+- `2025-06-16` — link external references
