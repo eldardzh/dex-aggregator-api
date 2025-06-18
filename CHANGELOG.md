@@ -34,3 +34,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-16` — ADR — chain-agnostic boundary
 - `2025-06-17` — tighten decisions section
 - `2025-06-17` — scope clarification
+- `2025-06-18` — license notice
