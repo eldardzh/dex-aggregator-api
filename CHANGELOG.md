@@ -37,3 +37,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-18` — license notice
 - `2025-06-18` — ADR — reorg-safe projection
 - `2025-06-18` — scope clarification
+- `2025-06-19` — terminology cleanup
