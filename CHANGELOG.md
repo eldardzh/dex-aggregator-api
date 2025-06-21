@@ -39,3 +39,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-18` — scope clarification
 - `2025-06-19` — terminology cleanup
 - `2025-06-21` — trailing whitespace
+- `2025-06-21` — scope clarification
