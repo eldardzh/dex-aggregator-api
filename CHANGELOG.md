@@ -42,3 +42,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-21` — scope clarification
 - `2025-10-19` — tighten architecture overview
 - `2025-10-20` — production status update
+- `2025-10-22` — tighten decisions section
