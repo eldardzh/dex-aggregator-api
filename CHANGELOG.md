@@ -43,3 +43,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-19` — tighten architecture overview
 - `2025-10-20` — production status update
 - `2025-10-22` — tighten decisions section
+- `2025-10-23` — expand 'My Role' section
