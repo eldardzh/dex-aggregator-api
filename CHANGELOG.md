@@ -50,3 +50,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-26` — tighten architecture overview
 - `2026-05-08` — tighten architecture overview
 - `2026-05-13` — surface key invariants
+- `2026-05-14` — tighten decisions section
